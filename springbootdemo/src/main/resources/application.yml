@@ -38,7 +38,7 @@ mybatis-plus:
     #控制台打印输出完整的sql语句
     log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
 
-# 系统输出日志(修改测试码云是否跟着修改)
+# 系统输出日志(修改测试码云是否跟着修改,这是在分支上修改的)
 logging:
   config:
     classpath: log4j2.xml
