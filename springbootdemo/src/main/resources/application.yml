@@ -38,7 +38,7 @@ mybatis-plus:
     #控制台打印输出完整的sql语句
     log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
 
-# 系统输出日志
+# 系统输出日志(修改)
 logging:
   config:
     classpath: log4j2.xml
